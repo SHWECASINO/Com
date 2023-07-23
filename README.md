@@ -3,7 +3,7 @@
   <meta charset="UTF-8"> 
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no maximum-scale=1.0, user-scalable=no"> 
   <meta http-equiv="X-UA-Compatible" content="ie=edge"> 
-  <title>Pragmatic Play</title> 
+  <title>Shwe Casino </title> 
   <link rel="stylesheet" href="https://d2f45svx228c0u.cloudfront.net/bootstrap-4.3.1-dist/css/bootstrap.min.css"> 
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-Bx4pytHkyTDy3aJKjGkGoHPt3tvv6zlwwjc3iqN7ktaiEMLDPqLSZYts2OjKcBx1" crossorigin="anonymous"> 
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css"> 
@@ -21,8 +21,8 @@
       <i class="fas fa-user fa-lg"></i> 
      </div> 
      <div class="username"> 
-      <p>vb77pmt003789</p> 
-      <p>21</p> 
+      <p>Welcome;</p> 
+      <p>Balance$0,00MMK</p> 
      </div> 
     </div> 
    </div> 
